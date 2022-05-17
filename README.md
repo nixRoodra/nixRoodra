@@ -14,8 +14,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Roodra....;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
+<h3 align="center">
+  About Me
+</h3>
+<ul type="square">
+  <li> 🌱 I’m currently pursuing <b>B.Tech in Computer Science and Engineering</b> at <b>ITM (SLS) BARODA UNIVERSITY, VADODARA</b></li>
+  <li>💬 Talk to me about Music, Memes, Anime, Movies 🎥</li>
+</ul>
+<h3 align="center">
+  Languages
+</h3>
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" width="70" height="50" >
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="70" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="70" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="70" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="70" height="50">
+  <!--<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="70" height="50">intermediate-->
+  
+</p>
 <p>
   <!--<img align='right' src='https://media0.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=790b761192ef3c8bb7b9bc6d6e5a2cb99f56b444604402b0&rid=giphy.gif&ct=g'              width='200"'>
   <img align='right' src='https://media4.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif?cid=790b7611b79e6b7f6fe4b527c272be54afdd21d633589a83&rid=giphy.gif&ct=g'              width='200"'>-->
-  <img align='right' src='https://media2.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif?cid=ecf05e47iedk2hyafienilrigyg8446jcmxr1p9plz4gfkzz&rid=giphy.gif&ct=g'              width='200"'>
+  <img align='right' src='https://media2.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif?cid=ecf05e47iedk2hyafienilrigyg8446jcmxr1p9plz4gfkzz&rid=giphy.gif&ct=g' width='200"'>
 <p>
