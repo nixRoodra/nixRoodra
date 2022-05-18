@@ -23,8 +23,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="70" height="50">
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="70" height="50">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="70" height="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="70" height="50">
-  <!--<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="70" height="50">intermediate-->
+  <!--<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="70" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="70" height="50">intermediate-->
   
 </p>
 <p>
