@@ -1,9 +1,9 @@
 <!-- # nixRoodra
-### Hi there 👋 I'm Roodra --Patel
-
-  - 🌱 I’m currently pursuing **B.Tech in Computer Science and Engineering at ITM (SLS) BARODA UNIVERSITY, VADODARA**
-  - 💬 Talk to me about Music, Memes, Anime, Movies 🎥
-<h4 align="center">Meme<h4>
+### Hi there 👋 I'm Roodra --Patel-->
+## About Me
+  * 🌱 I’m currently pursuing **B.Tech in Computer Science and Engineering at ITM (SLS) BARODA UNIVERSITY, VADODARA**
+  * 💬 Talk to me about Music, Memes, Anime, Movies 🎥
+<!--<h4 align="center">Meme<h4>
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
