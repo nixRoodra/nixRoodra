@@ -1,8 +1,5 @@
 <!-- # nixRoodra
 ### Hi there 👋 I'm Roodra --Patel-->
-## About Me
-  * 🌱 I’m currently pursuing **B.Tech in Computer Science and Engineering at ITM (SLS) BARODA UNIVERSITY, VADODARA**
-  * 💬 Talk to me about Music, Memes, Anime, Movies 🎥
 <!--<h4 align="center">Meme<h4>
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <h3 align="center">Connect with me:</h3>
@@ -14,13 +11,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Roodra....;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
-<h3 align="center">
-  About Me
-</h3>
-<ul type="square">
-  <li> 🌱 I’m currently pursuing <b>B.Tech in Computer Science and Engineering</b> at <b>ITM (SLS) BARODA UNIVERSITY, VADODARA</b></li>
-  <li>💬 Talk to me about Music, Memes, Anime, Movies 🎥</li>
-</ul>
+
+## About Me
+  * 🌱 I’m currently pursuing **B.Tech in Computer Science and Engineering at ITM (SLS) BARODA UNIVERSITY, VADODARA**
+  * 💬 Talk to me about Music, Memes, Anime, Movies 🎥
 <h3 align="center">
   Languages
 </h3>
