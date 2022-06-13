@@ -18,7 +18,7 @@
   About Me
 </h3>
 <ul type="square">
-  <li> 🌱 I’m currently pursuing <b>B.Tech in Computer Science and Engineering</b> at <b>ITM (SLS) BARODA UNIVERSITY, VADODARA</b></li>
+  <li> 🌱 I’m currently pursuing <b>B.Tech in Computer Science</b> at <b>ITM (SLS) BARODA UNIVERSITY, VADODARA</b></li>
   <li>💬 Talk to me about Music, Memes, Anime, Movies 🎥</li>
 </ul>
 <h3 align="center">
